@@ -5,12 +5,12 @@ A blockly application that can build AI to interact with Robot Soccer game.
 Pre-built installers of latest release can be downloaded from the links below.
 
 ### Windows 64-bit
-[![](https://img.shields.io/badge/EXE%20Installer-v1.2.0-blue)](https://github.com/PAIA-PROS/pros-blocks-soccer/releases/download/v1.2.0/PROS.Blocks.Soccer-1.2.0.Setup.exe)
+[![](https://img.shields.io/badge/EXE%20Installer-v1.3.0-blue)](https://github.com/PAIA-PROS/pros-blocks-soccer/releases/download/v1.3.0/PROS.Blocks.Soccer-1.3.0.Setup.exe)
 
 ### macOS 64-bit
 
 ##### Intel (x64)
-[![](https://img.shields.io/badge/DMG%20Installer-v1.2.0-red)](https://github.com/PAIA-PROS/pros-blocks-soccer/releases/download/v1.2.0/PROS.Blocks.Soccer-1.2.0-x64.dmg)
+[![](https://img.shields.io/badge/DMG%20Installer-v1.3.0-red)](https://github.com/PAIA-PROS/pros-blocks-soccer/releases/download/v1.3.0/PROS.Blocks.Soccer-1.3.0-x64.dmg)
 
 ##### Apple Silicon (Arm64)
-[![](https://img.shields.io/badge/DMG%20Installer-v1.2.0-red)](https://github.com/PAIA-PROS/pros-blocks-soccer/releases/download/v1.2.0/PROS.Blocks.Soccer-1.2.0-arm64.dmg)
+[![](https://img.shields.io/badge/DMG%20Installer-v1.3.0-red)](https://github.com/PAIA-PROS/pros-blocks-soccer/releases/download/v1.3.0/PROS.Blocks.Soccer-1.3.0-arm64.dmg)
